@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>GoogleToolboxForMac-framework.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>GoogleToolboxForMac-library.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Kingfisher.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-WordPressBlogAppTemplate.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-WordPressBlogAppTemplateTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6175D77C84FCDA2E80BD72A4DF0C1A80</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>93045B4826D635E5A807A8F907B60E5E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B6CCA43F99E8B85256299695D2B4EE24</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BD06E6043D76AF60B68D60D0BDA53196</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FDF4EA88CC131DBB08F01DAE6BDDB00A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

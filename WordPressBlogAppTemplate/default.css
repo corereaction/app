@@ -1,0 +1,107 @@
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'/>
+<style>
+body {
+    color: #333333;
+    background: #F6F6F6;
+    font-family:Helvetica;
+}
+h3 {
+    color: #434343;
+    font-family:Helvetica;
+    font-size: 18pt;
+}
+a {
+    font-family:Helvetica;
+    color: #2c97a3;
+    text-decoration:none;
+}
+img {
+    padding-left:0;
+    max-height: 100%;
+    max-width: 100%;
+    margin: 0.5em auto;
+    display: block;
+    height: auto;
+}
+
+.content {
+    padding: 1em;
+}
+
+* {
+    text-rendering: optimizeLegibility;
+}
+
+* {
+    max-width: 100%;
+}
+
+img {
+    
+}
+hr {
+    background: rgba(0, 0, 0, 0.2);
+    height: 1px;
+    border: 0;
+}
+
+pre {
+    font-size: 0.93em;
+    line-height: 1.5em;
+}
+
+blockquote {
+    color: rgba(0, 0, 0, 0.65);
+    margin-left: 2px;
+    margin-right: 6px;
+    padding-left: 16px;
+}
+
+blockquote:not(.simple) {
+    border-left: 3px solid rgba(0, 0, 0, 0.1);
+}
+
+/* Collapse excess whitespace. */
+p > p:empty,
+div > p:empty,
+p > div:empty,
+div > div:empty,
+p + br,
+p > br:only-child,
+div > br:only-child,
+img + br
+{
+    display: none;
+}
+
+iframe {
+    padding: 1em 0em;
+}
+
+table {
+    font-size: 0.9em;
+    text-align: start;
+    word-wrap: break-word;
+    border-collapse: collapse;
+}
+
+table td, .page table th {
+    padding: 0.25em 0.5em;
+    border: 1px solid rgb(216, 216, 216);
+}
+
+table th {
+    background-color: rgba(0, 0, 0, 0.025);
+}
+
+sub {
+    line-height: 1;
+    font-size: 0.75em;
+}
+
+.hidden {
+    display: none;
+}
+
+
+</style>
